@@ -94,7 +94,7 @@ public:
     };
 
     /**
-     * Constructs a \cauchy_distribution with the paramters @c median
+     * Constructs a \cauchy_distribution with the parameters @c median
      * and @c sigma.
      */
     explicit cauchy_distribution(RealType median_arg = RealType(0.0), 

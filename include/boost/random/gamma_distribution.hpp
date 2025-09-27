@@ -128,7 +128,7 @@ public:
 
     // compiler-generated copy ctor and assignment operator are fine
 
-    /** Returns the "alpha" paramter of the distribution. */
+    /** Returns the "alpha" parameter of the distribution. */
     RealType alpha() const { return _alpha; }
     /** Returns the "beta" parameter of the distribution. */
     RealType beta() const { return _beta; }

@@ -100,7 +100,7 @@ public:
     };
 
     /**
-     * Contructs a new geometric_distribution with the paramter @c p.
+     * Contructs a new geometric_distribution with the parameter @c p.
      *
      * Requires: 0 < p < 1
      */
